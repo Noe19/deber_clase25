@@ -1,0 +1,10 @@
+
+***NUTRI_LECHE ****
+
+ VARIABLE DESCRIPCION      TIPO
+*********************************
+
+    l        23            ENTERO
+   PG       4.5              REAL
+   TG   6.07662              REAL
+   GA   27.3448              REAL
